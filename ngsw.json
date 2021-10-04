@@ -1,0 +1,100 @@
+{
+  "configVersion": 1,
+  "timestamp": 1633363487079,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.a6e8050dee4d96a1b335.js",
+        "/main-es5.a6e8050dee4d96a1b335.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.8efe633f8934637015d4.js",
+        "/polyfills-es5.ea9ac87f90a108bf14e3.js",
+        "/runtime-es2015.681bd8a4edb177c86959.js",
+        "/runtime-es5.681bd8a4edb177c86959.js",
+        "/scripts.a55bb64091fab5cb8c29.js",
+        "/styles.d678acbc8ea66b6b3771.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/favicon.ico",
+        "/assets/fondo.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/play_movie.png",
+        "/assets/img/play_movie2.png",
+        "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "/fontawesome-webfont.f691f37e57f04c152e23.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/favicon.ico": "6bb489b86ecdeebc568470c3a815c15310fdeeb3",
+    "/assets/fondo.svg": "72f4816abec47708b64d0c4573641fdb06054b5d",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/play_movie.png": "222e05c805bffcbf0869afb52527fa2a89d15b99",
+    "/assets/img/play_movie2.png": "6ba7d33117012531cdf68843367287e4e91e92bd",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/index.html": "a5462d74a7949642d6d94dcc966167a558b70039",
+    "/main-es2015.a6e8050dee4d96a1b335.js": "6b719858621628755246a6cc61bba7d2934134bb",
+    "/main-es5.a6e8050dee4d96a1b335.js": "54e6fa1c998cd91c9586b127207a1557b398d055",
+    "/manifest.webmanifest": "f197918c2851c45350b9f6eebe488f4193810b5b",
+    "/polyfills-es2015.8efe633f8934637015d4.js": "65c537467564ee0ba776b629f71ed3413413a7cb",
+    "/polyfills-es5.ea9ac87f90a108bf14e3.js": "d102d92a05af3c4695590ad7c71844158ed0c998",
+    "/runtime-es2015.681bd8a4edb177c86959.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.681bd8a4edb177c86959.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.a55bb64091fab5cb8c29.js": "210ef4537f09f7d8672aeca1043cc919f3fbb21a",
+    "/styles.d678acbc8ea66b6b3771.css": "14487d9da61e34381201d7f9a0ea61fdd9ff484a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
